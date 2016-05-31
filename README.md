@@ -1,11 +1,11 @@
-* Instructions
+Instructions
 Just do python "script name" "input file name"
 
-* Example
+Example
 python Backendv1.py input.txt
 python Backendv2.py input.txt
 
-* Input
+Input
 The input file is input.txt
 Make any changes to input there
 
